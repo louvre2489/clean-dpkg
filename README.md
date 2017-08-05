@@ -1,0 +1,2 @@
+# clean-dpkg
+Linuxパッケージのクリーン
